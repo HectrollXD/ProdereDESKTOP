@@ -1,0 +1,23 @@
+C:\Users\Hector\Desktop\PRODERE\bin\Debug\PRODERE.exe.config
+C:\Users\Hector\Desktop\PRODERE\bin\Debug\PRODERE.exe
+C:\Users\Hector\Desktop\PRODERE\bin\Debug\PRODERE.pdb
+C:\Users\Hector\Desktop\PRODERE\obj\Debug\PRODERE.csprojAssemblyReference.cache
+C:\Users\Hector\Desktop\PRODERE\obj\Debug\PRODERE.Properties.Resources.resources
+C:\Users\Hector\Desktop\PRODERE\obj\Debug\PRODERE.csproj.GenerateResource.cache
+C:\Users\Hector\Desktop\PRODERE\obj\Debug\PRODERE.csproj.CoreCompileInputs.cache
+C:\Users\Hector\Desktop\PRODERE\obj\Debug\PRODERE.exe
+C:\Users\Hector\Desktop\PRODERE\obj\Debug\PRODERE.pdb
+C:\Users\Hector\Desktop\PRODERE\obj\Debug\PRODERE.Home.resources
+C:\Users\Hector\OneDrive\Escritorio\PRODERE\PRODERE DESKTOP\bin\Debug\PRODERE.exe.config
+C:\Users\Hector\OneDrive\Escritorio\PRODERE\PRODERE DESKTOP\bin\Debug\PRODERE.exe
+C:\Users\Hector\OneDrive\Escritorio\PRODERE\PRODERE DESKTOP\bin\Debug\PRODERE.pdb
+C:\Users\Hector\OneDrive\Escritorio\PRODERE\PRODERE DESKTOP\obj\Debug\PRODERE.csprojAssemblyReference.cache
+C:\Users\Hector\OneDrive\Escritorio\PRODERE\PRODERE DESKTOP\obj\Debug\PRODERE.Home.resources
+C:\Users\Hector\OneDrive\Escritorio\PRODERE\PRODERE DESKTOP\obj\Debug\PRODERE.Properties.Resources.resources
+C:\Users\Hector\OneDrive\Escritorio\PRODERE\PRODERE DESKTOP\obj\Debug\PRODERE.csproj.GenerateResource.cache
+C:\Users\Hector\OneDrive\Escritorio\PRODERE\PRODERE DESKTOP\obj\Debug\PRODERE.exe
+C:\Users\Hector\OneDrive\Escritorio\PRODERE\PRODERE DESKTOP\obj\Debug\PRODERE.pdb
+C:\Users\Hector\OneDrive\Escritorio\PRODERE\PRODERE DESKTOP\bin\Debug\PRODERE.exe.manifest
+C:\Users\Hector\OneDrive\Escritorio\PRODERE\PRODERE DESKTOP\bin\Debug\PRODERE.application
+C:\Users\Hector\OneDrive\Escritorio\PRODERE\PRODERE DESKTOP\obj\Debug\PRODERE.exe.manifest
+C:\Users\Hector\OneDrive\Escritorio\PRODERE\PRODERE DESKTOP\obj\Debug\PRODERE.application
